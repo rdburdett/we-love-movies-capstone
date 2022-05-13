@@ -6,11 +6,11 @@ The front-end react app was supplied, and the backend was then completed by Robe
 
 # Links
 
-Frontend: https://welovemovies-frontend-12.herokuapp.com/
+Frontend: https://welovemovies-frontend-bay.vercel.app/
 
-Backend: https://welovemovies-backend-12.herokuapp.com/
+Backend: https://welovemovies-12.herokuapp.com/
 
-Github Repository: https://github.com/rdburdett/we-love-movies.git
+Github Repository: https://github.com/rdburdett/we-love-movies-capstone
 
 ## Stack
 
